@@ -35,5 +35,3 @@ document.addEventListener("DOMContentLoaded", function() {
             console.error("Error fetching RSS feed:", err);
         });
 });
-
-
