@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const rssUrl = "https://rss.art19.com/how-i-built-this"; // Replace with your Anchor RSS URL
+    const rssUrl = "https://anchor.fm/s/2253a8a0/podcast/rss"; // Replace with your Anchor RSS URL
 
     fetch(rssUrl)
         .then(response => response.text())
